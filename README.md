@@ -12,7 +12,7 @@ For each image that has been resized the program prints it and also saves it in 
 ## OLD IMAGE(NON-RESIZED):
 
 This is an image before resizing from 'images' folder: 
-This is an image after resizing from 'resized images' folder: 
+This is an image after resizing from 'resized images' folder: 'Thumbnail.jpg' in this repo
 after entering the width as 6000 and height as 7000.
 
 
